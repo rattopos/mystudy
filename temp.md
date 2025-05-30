@@ -1,0 +1,69 @@
+- [ ] [Long tail - Wikipedia](https://en.wikipedia.org/wiki/Long_tail) 2025-05-26
+- [ ] [Kolmogorov's zero–one law - Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov%27s_zero%E2%80%93one_law) 2025-05-26
+- [ ] [Pareto principle - Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle) 2025-05-26
+- [ ] [Titius–Bode law - Wikipedia](https://en.wikipedia.org/wiki/Titius%E2%80%93Bode_law) 2025-05-26
+- [ ] [Sturgeon's law - Wikipedia](https://en.wikipedia.org/wiki/Sturgeon%27s_law) 2025-05-26
+- [ ] [Least squares - Wikipedia](https://en.wikipedia.org/wiki/Least_squares) 2025-05-26
+- [ ] [Fast inverse square root - Wikipedia](https://en.wikipedia.org/wiki/Fast_inverse_square_root) 2025-05-26
+- [ ] [Square root algorithms - Wikipedia](https://en.wikipedia.org/wiki/Square_root_algorithms) 2025-05-26
+- [ ] [C mathematical functions - Wikipedia](https://en.wikipedia.org/wiki/C_mathematical_functions) 2025-05-26
+- [ ] [NumPy - Wikipedia](https://en.wikipedia.org/wiki/NumPy) 2025-05-26
+- [ ] [Benford's law - Wikipedia](https://en.wikipedia.org/wiki/Benford%27s_law)[Heuristic - Wikipedia](https://en.wikipedia.org/wiki/Heuristic) 2025-05-26
+- [ ] [Heuristic - Wikipedia](https://en.wikipedia.org/wiki/Heuristic) 2025-05-26
+- [ ] [Philosophy of Statistics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/statistics/) 2025-05-26
+- [ ] [picture of mechanics in nLab](https://ncatlab.org/nlab/show/picture+of+mechanics) 2025-05-26
+- [ ] [Continuity and Infinitesimals (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/continuity/) 2025-05-26
+- [ ] [Principle of Sufficient Reason (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/sufficient-reason/) 2025-05-26
+- [ ] [Aristotle’s Rhetoric (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/aristotle-rhetoric/) 2025-05-26
+- [ ] [Type Theory (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/type-theory/) 2025-05-26
+- [ ] [Continuity and Infinitesimals (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/continuity/) 2025-05-26
+- [ ] [Constructive Mathematics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/mathematics-constructive/) 2025-05-26
+- [ ] [Philosophy of Mathematics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/philosophy-mathematics/) 2025-05-26
+- [ ] [Reverse Mathematics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/reverse-mathematics/) 2025-05-26
+- [ ] [Inconsistent Mathematics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/mathematics-inconsistent/) 2025-05-26
+- [ ] [Non-Deductive Methods in Mathematics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/mathematics-nondeductive/) 2025-05-26
+- [ ] [Korean Philosophy (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/korean-philosophy/) 2025-05-26
+- [ ] [Death (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/death/) 2025-05-26
+- [ ] [Rationalism vs. Empiricism (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/rationalism-empiricism/) 2025-05-26
+- [ ] [Nonexistent Objects (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/nonexistent-objects/) 2025-05-26
+- [ ] [Information (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/information/) 2025-05-26
+- [ ] [Quantum Gravity (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/quantum-gravity/) 2025-05-26
+- [ ] [Schema (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/schema/) 2025-05-26
+- [ ] [Cosmology and Theology (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/cosmology-theology/) 2025-05-26
+- [ ] [Quantum Field Theory (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/quantum-field-theory/) 2025-05-26
+- [ ] [Chance versus Randomness (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/chance-randomness/) 2025-05-26
+- [ ] [Fine-Tuning (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/fine-tuning/) 2025-05-26
+- [ ] [Newton’s Philosophiae Naturalis Principia Mathematica (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/newton-principia/) 2025-05-26
+- [ ] [The Hole Argument (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/spacetime-holearg/) 2025-05-26
+- [ ] [Absolute and Relational Space and Motion: Post-Newtonian Theories (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/spacetime-theories/) 2025-05-26
+- [ ] [Being and Becoming in Modern Physics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/spacetime-bebecome/) 2025-05-26
+- [ ] [Philosophy of Cosmology (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/cosmology/) 2025-05-26
+- [ ] [Absolute and Relational Space and Motion: Classical Theories (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/spacetime-theories-classical/) 2025-05-26
+- [ ] [Singularities and Black Holes (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/spacetime-singularities/) 2025-05-26
+- [ ] [Symmetry and Symmetry Breaking (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/symmetry-breaking/) 2025-05-26
+- [ ] [The Early Development of Set Theory (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/settheory-early/) 2025-05-26
+- [ ] [Formal Learning Theory (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/learning-formal/) 2025-05-26
+- [ ] [Philosophy of Education (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/education-philosophy/) 2025-05-26
+- [ ] [Civic Education (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/civic-education/) 2025-05-26
+- [ ] [Equality of Educational Opportunity (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/equal-ed-opportunity/) 2025-05-26
+- [ ] [Quantum Theory and Mathematical Rigor (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/qt-nvd/) 2025-05-26
+- [ ] [Supertasks (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/spacetime-supertasks/) 2025-05-26
+- [ ] [First-order Model Theory (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/modeltheory-fo/) 2025-05-26
+- [ ] [Alternative Axiomatic Set Theories (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/settheory-alternative/) 2025-05-26
+- [ ] [Modal Logic (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/logic-modal/) 2025-05-26
+- [ ] [Computation in Physical Systems (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/computation-physicalsystems/) 2025-05-26
+- [ ] [Infinity (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/infinity/) 2025-05-26
+- [ ] [Independence and Large Cardinals (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/independence-large-cardinals/) 2025-05-26
+- [ ] [Set Theory: Constructive and Intuitionistic ZF (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/set-theory-constructive/) 2025-05-26
+- [ ] [Definitions (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/definitions/) 2025-05-26
+- [ ] [Time (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/time/) 2025-05-26
+- [ ] [Philosophy of Statistical Mechanics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/statphys-statmech/) 2025-05-26
+- [ ] [The Emergence of First-Order Logic (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/logic-firstorder-emergence/) 2025-05-26
+- [ ] [Proof Theory (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/proof-theory/) 2025-05-26
+- [ ] [Metaphysics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/metaphysics/) 2025-05-26
+- [ ] [Medieval Philosophy (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/medieval-philosophy/) 2025-05-26
+- [ ] [Experimental Philosophy (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/experimental-philosophy/) 2025-05-26
+- [ ] [Free Will (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/freewill/) 2025-05-26
+- [ ] [Quantum Logic and Probability Theory (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/qt-quantlog/) 2025-05-26
+- [ ] [Epistemology of Geometry (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/epistemology-geometry/) 2025-05-26
+- [ ] [Epistemology (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/epistemology/) 2025-05-30
