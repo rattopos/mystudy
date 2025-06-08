@@ -1,8 +1,8 @@
-- [ ] [Long tail - Wikipedia](https://en.wikipedia.org/wiki/Long_tail) 2025-05-26
-- [ ] [Kolmogorov's zero–one law - Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov%27s_zero%E2%80%93one_law) 2025-05-26
-- [ ] [Pareto principle - Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle) 2025-05-26
-- [ ] [Titius–Bode law - Wikipedia](https://en.wikipedia.org/wiki/Titius%E2%80%93Bode_law) 2025-05-26
-- [ ] [Sturgeon's law - Wikipedia](https://en.wikipedia.org/wiki/Sturgeon%27s_law) 2025-05-26
+- [x] [Long tail - Wikipedia](https://en.wikipedia.org/wiki/Long_tail) 2025-05-26 2025-05-31
+- [x] [Kolmogorov's zero–one law - Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov%27s_zero%E2%80%93one_law) 2025-05-26 2025-05-31
+- [x] [Pareto principle - Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle) 2025-05-26 2025-05-31
+- [x] [Titius–Bode law - Wikipedia](https://en.wikipedia.org/wiki/Titius%E2%80%93Bode_law) 2025-05-26 2025-05-31
+- [x] [Sturgeon's law - Wikipedia](https://en.wikipedia.org/wiki/Sturgeon%27s_law) 2025-05-26
 - [ ] [Least squares - Wikipedia](https://en.wikipedia.org/wiki/Least_squares) 2025-05-26
 - [ ] [Fast inverse square root - Wikipedia](https://en.wikipedia.org/wiki/Fast_inverse_square_root) 2025-05-26
 - [ ] [Square root algorithms - Wikipedia](https://en.wikipedia.org/wiki/Square_root_algorithms) 2025-05-26
@@ -67,3 +67,8 @@
 - [ ] [Quantum Logic and Probability Theory (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/qt-quantlog/) 2025-05-26
 - [ ] [Epistemology of Geometry (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/epistemology-geometry/) 2025-05-26
 - [ ] [Epistemology (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/epistemology/) 2025-05-30
+- [ ] [Diagrams (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/diagrams/) 2025-05-31 
+- [ ] [Sorites Paradox (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/sorites-paradox/) 2025-05-31
+- [ ] [Self-Reference and Paradox (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/self-reference/) 2025-05-31
+- [ ] [Integer relation algorithm - Wikipedia](https://en.wikipedia.org/wiki/Integer_relation_algorithm) 2025-06-06
+- [ ] [Euclidean algorithm - Wikipedia](https://en.wikipedia.org/wiki/Euclidean_algorithm) 2025-06-06
