@@ -2,6 +2,8 @@
 1. [Orbital resonance - Wikipedia](https://en.wikipedia.org/wiki/Orbital_resonance)
 ## Computer sicence
 1. [IEEE 754 - Wikipedia](https://en.wikipedia.org/wiki/IEEE_754)
+2. [Pseudorandomness - Wikipedia](https://en.wikipedia.org/wiki/Pseudorandomness)
+3. [Division algorithm - Wikipedia](https://en.wikipedia.org/wiki/Division_algorithm)
 ## Exotic Things
 1. [Gravastar - Wikipedia](https://en.wikipedia.org/wiki/Gravastar)
 2. [Negative mass - Wikipedia](https://en.wikipedia.org/wiki/Negative_mass)
@@ -14,6 +16,8 @@
 3. [Pathological (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Pathological_\(mathematics\))
 4. [List of unsolved problems in mathematics - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
 5. [Proof of impossibility - Wikipedia](https://en.wikipedia.org/wiki/Proof_of_impossibility)
+6. [Abel–Ruffini theorem - Wikipedia](https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem)
+7. [Computer algebra system - Wikipedia](https://en.wikipedia.org/wiki/Computer_algebra_system)
 ## Paradoxes
 1. [List of paradoxes - Wikipedia](https://en.wikipedia.org/wiki/List_of_paradoxes)
 ## Physics
