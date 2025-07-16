@@ -150,3 +150,82 @@ RSA는 길이가 길어지면 오래걸린다.
 
 93p. 27
 216p. 13, 15
+
+## 2025-07-15
+
+[Broadcast encryption - Wikipedia](https://en.wikipedia.org/wiki/Broadcast_encryption)
+
+연습문제
+
+4.13 f: G->G'이 군동함수 일 때, f(e) = e'
+
+(교재 없는 문제) 치환 ${ \sigma \in S_{5} }$,
+$$ \sigma = \begin{pmatrix}
+1 & 2 & 3 & 4 & 5 \\
+2 & 1 & 4 & 5 & 3
+\end{pmatrix} $$
+
+${ \sigma^{-1}(k) }$의 값? (${ k=1,2,3,4,5 })$
+
+$$ \sigma^{-1} = \begin{pmatrix}
+1 & 2 & 3 & 4 & 5 \\
+2 & 1 & 5 & 3 & 4
+\end{pmatrix} $$
+
+4.15 ${ GF(2) }$ 위의 기약다항식 ${ p(x) = x^{3} + x + 1 }$. ${ p(x)=0 }$의 해 ${ \alpha }$가 ${ GF(2^{3}) }$에 있다. ${ \alpha^{2}+1 }$의 제곱을 구하시오
+
+$$ GF(8) = GF(2)[\alpha] = \left\{ c_{0} + c_{1} \alpha + c_{2} \alpha^{2} \mid c_{0}, c_{1}, c_{2} \in GF(2)\right\}  $$
+
+$$ (\alpha^{2}+1)^{2} = \alpha^{4}+1 $$
+
+$$ \alpha^{4}+ \alpha^{2}+\alpha = 0 \implies \alpha^{4} = \alpha^{2} + \alpha$$
+
+$$ \left( \alpha^{2}+1 \right)^{2} = \alpha^{2} + \alpha +1 $$
+
+5.14 키스트림의 주기를 구하시오
+
+$$ \begin{array}{|c|cccccccccccccccccccc|}
+\hline
+n & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12 & 13 & 14 & 15 & 16 & 17 & 18 & 19 \\ \hline
+x_{n} & 0 & 0 & 1 & 1 & 0 & 1 & 0 & 1 & 1 & 1 & 1 & 0 & 0 & 0 & 1 & 0 & 0 & 1 & 1 & 0 \\
+\hline
+\end{array} $$
+
+## 2025-07-16
+
+[Time/memory/data tradeoff attack - Wikipedia](https://en.wikipedia.org/wiki/Time/memory/data_tradeoff_attack)
+
+[Differential cryptanalysis - Wikipedia](https://en.wikipedia.org/wiki/Differential_cryptanalysis)
+
+[Advanced Encryption Standard - Wikipedia](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+
+[NTRU - Wikipedia](https://en.wikipedia.org/wiki/NTRU) Number Theory Really Useful?
+
+[Hash function - Wikipedia](https://en.wikipedia.org/wiki/Hash_function)
+
+해시 함수 ${ h: \left\{ 0,1 \right\}^{\ast} \to \left\{ 0,1 \right\}^{n} }$
+1. ${ h(x) }$의 계산은 쉽고 빠르다.
+2. (일방향성) ${ y \in \left\{ 0,1 \right\}^{n} }$에 대하여, ${ h(x) = y }$를 만족하는 것은 ${ x }$를 찾는 것은 계산적으로 거의 불가능하다.
+3. (충돌회피성) ${ h(x_{1}) = h(x_{2}) }$를 만족하는 서로 다른 ${ x_{1},x_{2} }$를 찾는 것도 계산적으로 거의 불가능하다.
+
+X. Wang이 기존 해시 함수 중 대부분이 충돌회피성에 약점이 있음을 밝혀내 새로운 해시 함수의 개발을 앞당김
+
+좋은 해시함수는
+1. 해시 값이 랜덤처럼 보여야하고,
+2. 입력/출력 차이가 상관 관계가 없는 듯 보여야 한다.
+
+용도
+1. 데이터의 무결성 확인: ${ (x,h(x)) }$ 전송 -> 수신한 ${ (x',y') }$에  대하여 ${ y' == h(x') }$ 체크
+2. 긴 문서에 ${ x }$에 대한 서명 대신 짧은 ${ h(x) }$에 서명
+
+[Merkle–Damgård construction - Wikipedia](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction)
+
+[Birthday problem - Wikipedia](https://en.wikipedia.org/wiki/Birthday_problem)
+
+[SHA-2 - Wikipedia](https://en.wikipedia.org/wiki/SHA-2)
+
+p.186, 17 <- 틀렸으니까 제발 다시 풀어보기, 16
+
+p.254, 17: 210,000 블록 마다 채굴량이 절반으로.
+맨 처음 채굴 50 비트코인
+$$ 210{\small,}000 \times 50 \times (1 +\frac{1}{2}+\frac{1}{4} + \cdots) = 210{\small,}000 \times 50 \times 2 = 21{\small,}000{\small,}000  $$
