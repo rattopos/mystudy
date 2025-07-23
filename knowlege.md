@@ -20,6 +20,7 @@
 7. [Computer algebra system - Wikipedia](https://en.wikipedia.org/wiki/Computer_algebra_system)
 ## Paradoxes
 1. [List of paradoxes - Wikipedia](https://en.wikipedia.org/wiki/List_of_paradoxes)
+2. [Simpson's paradox - Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 ## Physics
 1. [Resonance - Wikipedia](https://en.wikipedia.org/wiki/Resonance)
 2. [List of unsolved problems in physics - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)

@@ -229,3 +229,11 @@ p.186, 17 <- 틀렸으니까 제발 다시 풀어보기, 16
 p.254, 17: 210,000 블록 마다 채굴량이 절반으로.
 맨 처음 채굴 50 비트코인
 $$ 210{\small,}000 \times 50 \times (1 +\frac{1}{2}+\frac{1}{4} + \cdots) = 210{\small,}000 \times 50 \times 2 = 21{\small,}000{\small,}000  $$
+
+---
+## 응용사례특강
+
+[Vigenère cipher - Wikipedia](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
+
+[Elliptic-curve cryptography - Wikipedia](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
+
