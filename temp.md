@@ -8,7 +8,7 @@
 - [ ] [Square root algorithms - Wikipedia](https://en.wikipedia.org/wiki/Square_root_algorithms) 2025-05-26
 - [ ] [C mathematical functions - Wikipedia](https://en.wikipedia.org/wiki/C_mathematical_functions) 2025-05-26
 - [ ] [NumPy - Wikipedia](https://en.wikipedia.org/wiki/NumPy) 2025-05-26
-- [ ] [Benford's law - Wikipedia](https://en.wikipedia.org/wiki/Benford%27s_law)[Heuristic - Wikipedia](https://en.wikipedia.org/wiki/Heuristic) 2025-05-26
+- [ ] [Benford's law - Wikipedia](https://en.wikipedia.org/wiki/Benford%27s_law) 2025-05-26
 - [ ] [Heuristic - Wikipedia](https://en.wikipedia.org/wiki/Heuristic) 2025-05-26
 - [ ] [Philosophy of Statistics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/statistics/) 2025-05-26
 - [ ] [picture of mechanics in nLab](https://ncatlab.org/nlab/show/picture+of+mechanics) 2025-05-26
