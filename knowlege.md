@@ -18,6 +18,8 @@
 5. [Proof of impossibility - Wikipedia](https://en.wikipedia.org/wiki/Proof_of_impossibility)
 6. [Abel–Ruffini theorem - Wikipedia](https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem)
 7. [Computer algebra system - Wikipedia](https://en.wikipedia.org/wiki/Computer_algebra_system)
+8. [Average - Wikipedia](https://en.wikipedia.org/wiki/Average)
+9. [Equidistribution theorem - Wikipedia](https://en.wikipedia.org/wiki/Equidistribution_theorem)
 ## Paradoxes
 1. [List of paradoxes - Wikipedia](https://en.wikipedia.org/wiki/List_of_paradoxes)
 2. [Simpson's paradox - Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
@@ -27,6 +29,7 @@
 3. [No-go theorem - Wikipedia](https://en.wikipedia.org/wiki/No-go_theorem)
 4. [Metallic hydrogen - Wikipedia](https://en.wikipedia.org/wiki/Metallic_hydrogen)
 5. [Norton's dome - Wikipedia](https://en.wikipedia.org/wiki/Norton%27s_dome)
+6. [Electromagnetic mass - Wikipedia](https://en.wikipedia.org/wiki/Electromagnetic_mass)
 ## Psychology
 1. [파레이돌리아 - 나무위키](https://namu.wiki/w/%ED%8C%8C%EB%A0%88%EC%9D%B4%EB%8F%8C%EB%A6%AC%EC%95%84)
 2. [아포페니아 - 나무위키](https://namu.wiki/w/%EC%95%84%ED%8F%AC%ED%8E%98%EB%8B%88%EC%95%84)
