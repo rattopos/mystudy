@@ -72,3 +72,4 @@
 - [ ] [Self-Reference and Paradox (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/self-reference/) 2025-05-31
 - [ ] [Integer relation algorithm - Wikipedia](https://en.wikipedia.org/wiki/Integer_relation_algorithm) 2025-06-06
 - [ ] [Euclidean algorithm - Wikipedia](https://en.wikipedia.org/wiki/Euclidean_algorithm) 2025-06-06
+- [ ] [Possible Worlds (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/possible-worlds/) 2025-08-26
